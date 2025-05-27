@@ -8,7 +8,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**Titulo** : Cucharacha
+**Titulo** : <p>Hola jajajajaj</p>
 
 **Web:**   (url github.io)
 
@@ -134,8 +134,8 @@ Este  proyecto es interesante porque ...
 
 **Herramientas utilizadas**
 
-- Hippani Animator 5.1
-- 
+- Godot 4.0
+- P
 
 
 
