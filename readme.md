@@ -20,41 +20,41 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Logotipo** : 
 
-(insertar imágenes a resolucion de 100px alto)
+![Logol](https://github.com/LeoGarru/Cucharacha/blob/master/Logo.png)
 
 **Resolución:** 1350x890px tamaño fijo
 
-**Probado en:**  Google Chrome, Firefox
+**Probado en:**  Google Chrome, Firefox y Windows 10
 
-**Tamaño proyecto:** 14MB xxxxxxxx
+**Tamaño proyecto:** 155MB xxxxxxxx
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
 **Fecha** : 28/05/2025
 
-**Medios** (donde se tiene presencia relacionada):
+**Medios**:
 
 - Github:LeoGarru
 - Instagram: @leo.garru
 
 
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
-
 # 2. Memoria del proyecto 
 
 ### 2.1 Storyboard: 
+El diseño de los personajes fue un punto inicial determinante para el progreso del juego. Le quise dar importancia tanto a sus diseños como el cómo se verían en pantalla una vez se usara dialogic.
 
+![Personajesl](https://github.com/LeoGarru/Cucharacha/blob/master/Personajes.PNG)
 
+Por otro lado planteé cada uno de los minijuegos y el espacio donde se movería el personaje jugable.
+![Storyboard](https://github.com/LeoGarru/Cucharacha/blob/master/Storyboard.PNG)
 
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
 
 
 
 ### 2.2. Esquema de navegación 
 
 
-
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
+![Esquemal](https://github.com/LeoGarru/Cucharacha/blob/master/Esquema.png)
 
 
 
@@ -133,9 +133,7 @@ Teniendo en cuenta que es la primera vez que creo un videojuego, creo que tiene 
 
 # 5 Referencias 
 
-**Artículos y blogs ** 
-
-- Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
+-
 
 **Recursos y materiales audiovisuales:**
 
