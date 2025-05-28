@@ -10,7 +10,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Titulo** : Cucharacha
 
-**Web:**   (url github.io)
+**Web:**  [ (url github.io)](https://leogarru.itch.io/cucharacha)
 
 **Autor:**  Leo Garzón Ruiz
 
@@ -26,7 +26,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Probado en:**  Google Chrome, Firefox y Windows 10
 
-**Tamaño proyecto:** 155MB xxxxxxxx
+**Tamaño proyecto:** 49,5 MB
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
