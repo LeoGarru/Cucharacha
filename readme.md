@@ -45,7 +45,12 @@ El diseño de los personajes fue un punto inicial determinante para el progreso 
 
 ![Personajesl](https://github.com/LeoGarru/Cucharacha/blob/master/Personajes.PNG)
 
-Por otro lado planteé cada uno de los minijuegos y el espacio donde se movería el personaje jugable.
+Por otro lado planteé cada uno de los minijuegos y el espacio donde se movería el personaje jugable. El personaje jugable, Don Gatún, tendrá que superar un total de 4 minijuegos:
+- Minijuego 1: Saka Moko -> Un puñado de gabiotas han montado un destrozo en el huerto. El jugador debe ayudar a Saka a recoger cada uno de los alimentos que han quedado desperdigados por el suelo y meterlos en sus cestas correspondientes. Si consigue ordenarlos todos antes de terminar el tiempo estimado (1 minuto) el jugador gana, si no vuelve a reintentarlo.
+- Minijuego 2: Chema Mado -> Chema quiere entrenerse un poco y como es el cowboy que es, quiere que aguantes a lomos de su toro mecánico. Para superar el nivel tendrás que cliquear la mayor cantidad de flechas que aparezcan en la pantalla posibles y así mantener el equilibrio de Don Gatún. Si cliqueas una cantidad menor a la estimada has perdido el juego, pero si lo haces continuas.
+- Minijuego 3: Ali y Oli -> Las gemelas Ali y Oli quieren que cubras una baja en su restaurante y te encargues de hacer las hamburguesas. En pantalla aparecerán 3 platos y arriba la hamburguesa que deberás montar. ¿Has terminado de montar la primera hamburguesa en el primer plato? Perfecto, solo presiona la campana y te saldrá la siguiente receta para el siguiente plato.
+- Minijuego 4: José María -> José María siempre ha tenido el sueño de arrastrar a alguien a una competición de moda, y tú te has convertido en su objetivo. La temática de esta competición son los colores, y para superarla tendrás que pulsar en los botones correspondientes de cada color que te indique el cartel hasta que se acabe el tiempo. Esto ayudará a que Don Gatún complete sus trajes personalizados y ganar.
+  
 ![Storyboard](https://github.com/LeoGarru/Cucharacha/blob/master/Storyboard.PNG)
 
 
@@ -124,7 +129,6 @@ Otro extraño problema al que he tenido que hacer frente desde el primer momento
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
 Teniendo en cuenta que es la primera vez que creo un videojuego, creo que tiene unos mecanismos aceptables y una bonita estética. Además no considero que sea un juego aburrido ni pesado de jugar, que es el mayor problema en el que caen los creadores noveles, por lo que lo consideraría un pequeño éxito personal. Hace pocos meses no sabía nada del mundo del desarollo de videojuegos y ahora puedo orgullosamente decir que no solo he creado uno completto sino que también puedo llegar a entender conceptos básicos de su funcionamiento. Me ha alegrado mucho tocar este campo en la asignatura de Creación Multimedia interactiva, ya que era algo que pretendía aprender tarde o temprano y que siempre me ha llamado la atención desde la distancia. Los artistas de la era contemporanea tienen que saber un poco de todo para ganarse la vida, así que me ha parecido muy buena prática para mi yo del presente y mi yo del futuro.
 
 
@@ -140,7 +144,7 @@ Teniendo en cuenta que es la primera vez que creo un videojuego, creo que tiene 
 * Música:  Le Festin - Ratatouille, RuPaul's drag race - Cover girl, Animal Crossing - 3 AM, Alan Jackson - Good time karaoke y Thank Goodness You're Here
 * Sonidos: Pixabay
 * Imágenes:  Dibujos míos
-* Tipografía: Latte Machiatto, dafont.com
+* Tipografía: Latte Machiatto (dafont.com)
 
 **Herramientas utilizadas**
 
