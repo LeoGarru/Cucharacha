@@ -34,7 +34,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Medios**:
 
-- Github:LeoGarru
+- Github: LeoGarru
 - Instagram: @leo.garru
 
 
