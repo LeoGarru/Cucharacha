@@ -95,7 +95,7 @@ Este  proyecto es interesante porque:
 
 **Publico / audiencia**
 
-Está orientado a un público que ronda de los 15 a los 30 años. Se hace mención a escenas sexuales no demasiado escandalosas.
+Está orientado a un público que ronda desde los 15 a los 30 años. Se hace mención a escenas sexuales no demasiado escandalosas.
 
 
 
